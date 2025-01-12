@@ -1,8 +1,7 @@
 # Travel Guide App
 
-### TANITIM VİDEOSU ###
-www.google.com
-
+[### TANITIM VİDEOSU ###
+](https://youtu.be/b_r8QmUV5dw)
 ### KAYNAK KODLARIN KONUMLARI ###
 /lib
 
